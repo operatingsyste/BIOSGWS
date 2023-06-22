@@ -89,7 +89,7 @@ function gws5() {
     }
 
     function GWS5(){
-  window.open('https://operatingsyste.github.io/GWS5/');
+  window.open('https://operatingsyste.github.io/GWS5SETUP/');
     }
 
 
@@ -99,7 +99,7 @@ function gws7() {
 }
 
 function GWS7(){
-  window.open('https://operatingsyste.github.io/GWS7/');
+  window.open('https://operatingsyste.github.io/GWS7SETUP/');
     }
 
 
@@ -112,7 +112,7 @@ function gws6() {
 }
 
 function GWS6(){
-  window.open('https://operatingsyste.github.io/GWS6/');
+  window.open('https://operatingsyste.github.io/GWS6SETUP/');
     }
 
 
@@ -121,5 +121,5 @@ function GWS6(){
 }
 
 function GWS8(){
-  window.open('https://operatingsyste.github.io/GWS8/');
+  window.open('https://operatingsyste.github.io/GWS8SETUP/');
 }
