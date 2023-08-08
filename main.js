@@ -1,6 +1,5 @@
 console.log('Hello World!');
 
-
 function openServer(){
   window.open('https://servers.operatingsyste.repl.co');
 }
