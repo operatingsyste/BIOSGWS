@@ -56,6 +56,9 @@ GWS7();
 else if (getOs === 'GWS8'){
 GWS8();
 }
+  else if (getOs === 'GWS9'){
+GWS9();
+  }
 
 
 }
@@ -121,4 +124,11 @@ function GWS6(){
 
 function GWS8(){
   window.open('https://operatingsyste.github.io/GWS8SETUP/');
+}
+
+function gws9() {
+  var getOs = document.getElementById('os').value = 'GWS9';
+}
+function GWS9(){
+window.open("https://operatingsyste.github.io/GWS9SE/");
 }
